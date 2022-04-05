@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "email": "ennecarvalho22@gmail.com",
+      "password": "batatafrita123",
+      "nome": "Sheyenne",
+      "id": 1
+    },
+    {
+      "email": "caique@email.com",
+      "password": "$2a$10$VWO7K/BBAFS1AHpMbSgOK.jJ4GPc9oEsSLvj9hcAjDffmP2qc09CS",
+      "nome": "Caique",
+      "id": 2
+    }
+  ],
+  "secao-jogos": [
+    {
+      "id": 1,
+      "imagem": "assets/img/images3.png",
+      "titulo": "BUY NOW",
+      "descricao": "GAMES BUY NOW"
+    },
+    {
+      "id": 2,
+      "imagem": "assets/img/images4.png",
+      "titulo": "BUY NOW",
+      "descricao": "GAMES BUY NOW"
+    },
+    {
+      "imagem": "",
+      "titulo": "BUY NOW",
+      "descricao": "GAMES BUY NOW",
+      "id": 3
+    }
+  ]
+}
